@@ -1,0 +1,21 @@
+/* Estilos da página index */
+
+.cover-container figure img
+{
+    width: 100%;
+}
+
+.color-red
+{
+    color: red;
+}
+
+.color-red ul li a
+{
+    color: green;
+}
+
+#link-home
+{
+    color: black;
+}
